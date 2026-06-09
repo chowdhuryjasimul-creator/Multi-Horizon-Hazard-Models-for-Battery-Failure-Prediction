@@ -6,7 +6,7 @@ import zipfile
 import tempfile
 import shutil
 
-DATA_PATH = "/run/media/touhid/SSD/batt_sense/battery_sens/calce"
+DATA_PATH = "../data/calce"
 
 # Column indices in the Channel_* sheet (1-indexed from openpyxl)
 # Row 1 is the header; data starts at row 2

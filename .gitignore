@@ -24,3 +24,6 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+# Recombined from chunks (not committed directly)
+data/oxford/Oxford_Battery_Degradation_Dataset_1.mat
